@@ -90,4 +90,4 @@ def scatter(entered_site,payload):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(port = 8080)
+    app.run_server()
